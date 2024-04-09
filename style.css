@@ -338,6 +338,61 @@ body, html {
   background-color: #c94f4f;
   transition: 0.4s ease;
 }
+/********* Testimonial Section CSS Starts **********/
+/********** Testimonial CSS Starts **********/  
+.tetimonial {
+  width: 340px;
+  background: white;
+  border: 1px solid rgb(0 0 0 / 10%);
+  padding: 25px 15px; /* Adjusted padding */
+  float: left;
+  margin-right: 10px;
+}
+.tetimonial img {
+  border-radius:50px;
+  width:100%;
+}
+.tetimonial-user {
+  padding-left: 15px;
+  padding-top: 5px;
+}
+.tetimonial-user h4 {
+  font-size: 16px;
+  color: black;
+  margin-bottom: 5px;
+}
+.tetimonial-user p {
+  color: #818385;
+  font-size: 12px;
+}
+.tetimonial .fa-quote-right {
+  font-size:40px;
+  margin-top: 5px;
+  color:#787eff;
+}
+.testimonial-comment {
+  width: 100%;
+  float: left;
+  margin-top: 30px;
+}
+.testimonial-comment h4 {
+  color: #787eff;
+  font-size: 20px;
+  margin-bottom:15px;
+}
+.testimonial-comment p {
+  font-size: 15px;
+  margin-bottom:20px;
+  
+  line-height: 25px;
+  color:#1f2836;
+}
+.testimonial-comment i {
+  color:#ff5722;
+  font-size:18px;
+}
+/********** Testimonial CSS Ends **********/
+/********* Testimonial Section CSS End **********/
 /* footer 1  */
 .footer{
   background: #232f3e;
