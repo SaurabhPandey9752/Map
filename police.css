@@ -19,6 +19,23 @@ body {
     color: #fff;
     background: #53f0e3;
 }
+.btn {
+    background-color: #161618;
+    border: none;
+    border-radius: 16px;
+    color: rgb(251, 249, 249);
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+.btn:hover{
+    background-color:black;
+}
+
 
 .wrapper {
     width: 380px;
